@@ -11,24 +11,37 @@ Currently is in developing state.
 
 ## Available Functions
 
+
+### Sign up
+![](Demos/01-Register.gif)
+
+### Sign in
+![](Demos/02-Login.gif)
+
+### Set up Profile
+![](Demos/03-Profile.gif)
+
+### Send friend request
+![](Demos/04-Friend.gif)
+
 ### Send Family Request
-![](Demo%20GIFs/05_Send-Family-Request.gif)
+![](Demos/05-Family-Send.gif)
 
 ### Accept Family Request
-![](Demo%20GIFs/06_Accept-Family-Request.gif)
+![](Demos/06-Family-Accept.gif)
 
 ### Messaging
-![](Demo%20GIFs/07_Messaging.gif)
+![](Demos/07-Messaging.gif)
 
 ### Creating a task
-![](Demo%20GIFs/08_Create-Task.gif)
+![](Demos/08-Task-Create.gif)
 
 ### Attempting to complete task
-![](Demo%20GIFs/09_Attempt.gif)
+![](Demos/09-Task-Attempt.gif)
 
 ### Accepting task attempt
-![](Demo%20GIFs/10_Attempt-Acceptance.gif)
+![](Demos/10-Task-Accept.gif)
 
 ### Confirming accepted attempt
-![](Demo%20GIFs/11_Confirm-that-accepted.gif)
+![](Demos/11-Task-Confirm.gif)
 

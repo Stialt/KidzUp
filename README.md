@@ -3,14 +3,7 @@
 Social Network application aimed for parents-children interaction.
 Currently is in developing state.
 
-## Built with
-* [FireBase](https://firebase.google.com/) - database, storage, users accounting etc.
-
-## Authors
-* **Denis Kim** - *Initial Work* - [Stialt](https://github.com/Stialt)
-
 ## Available Functions
-
 
 ### Sign up
 ![](Demos/01-Register.gif)
@@ -45,3 +38,8 @@ Currently is in developing state.
 ### Confirming accepted attempt
 ![](Demos/11-Task-Confirm.gif)
 
+## Built with
+* [FireBase](https://firebase.google.com/) - database, storage, users accounting etc.
+
+## Authors
+* **Denis Kim** - *Initial Work* - [Stialt](https://github.com/Stialt)

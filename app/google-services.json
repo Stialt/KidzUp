@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1029228906906",
+    "firebase_url": "https://prototypekidzup1.firebaseio.com",
+    "project_id": "prototypekidzup1",
+    "storage_bucket": "prototypekidzup1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029228906906:android:6e94abef0b3bedd7",
+        "android_client_info": {
+          "package_name": "com.example.admin.prototypekidzup1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029228906906-5e4097nohukrs5m80qgrdmbmv8v6bp8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.prototypekidzup1",
+            "certificate_hash": "239413773f34d79e84a03837d515792e2a2568d6"
+          }
+        },
+        {
+          "client_id": "1029228906906-jl1s0haubhg4hnltonho9no2rrko0o8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2bFi6aesmsYFUqOaXbbwiJr_Lo5hPco0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029228906906-jl1s0haubhg4hnltonho9no2rrko0o8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

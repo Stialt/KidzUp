@@ -1,0 +1,104 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.prototypekidzup1.fragment.HomePageFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/frag_home_welcome_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:text="Welcome to KidzUp!"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/frag_home_tasks_button"
+        android:layout_width="180dp"
+        android:layout_height="154dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/frag_home_chats_button"
+        android:background="@drawable/ic_task" />
+
+    <ImageButton
+        android:id="@+id/frag_home_chats_button"
+        android:layout_width="180dp"
+        android:layout_height="154dp"
+        android:layout_below="@+id/frag_home_welcome_text"
+        android:layout_marginTop="34dp"
+        android:layout_toEndOf="@+id/frag_home_tasks_button"
+        android:background="@drawable/icon_messages_big" />
+
+    <ImageButton
+        android:id="@+id/frag_home_friends_button"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/frag_home_tasks_button"
+        android:layout_marginTop="55dp"
+        android:background="@drawable/ic_friends" />
+
+    <ImageButton
+        android:id="@+id/frag_home_family_button"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_alignTop="@+id/frag_home_friends_button"
+        android:layout_toEndOf="@+id/frag_home_friends_button"
+        android:background="@drawable/family" />
+
+    <TextView
+        android:id="@+id/fag_home_tasks_text"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/frag_home_tasks_button"
+        android:text="Tasks"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/fag_home_chats_text"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/frag_home_chats_button"
+        android:layout_below="@+id/frag_home_chats_button"
+        android:text="Messages"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/fag_home_friends_text"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/frag_home_friends_button"
+        android:layout_toStartOf="@+id/frag_home_family_button"
+        android:text="Friends"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/fag_home_family_text"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/frag_home_family_button"
+        android:layout_below="@+id/frag_home_family_button"
+        android:text="Family"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

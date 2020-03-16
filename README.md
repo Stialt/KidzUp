@@ -1,5 +1,16 @@
 # KidzUp
 
+Social Network application aimed for parents-children interaction.
+Currently is in developing state.
+
+## Built with
+* [FireBase](https://firebase.google.com/) - database, storage, users accounting etc.
+
+## Authors
+* **Denis Kim** - *Initial Work* - [Stialt](https://github.com/Stialt)
+
+## Available Functions
+
 ### Send Family Request
 ![](Demo%20GIFs/05_Send-Family-Request.gif)
 

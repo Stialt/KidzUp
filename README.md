@@ -3,6 +3,12 @@
 Social Network application aimed for parents-children interaction.
 Currently is in developing state.
 
+## Table of Contents (Optional)
+
+- [Available functions](#available-functions)
+- [Built with](#built-with)
+- [Authors](#authors)
+
 ## Available Functions
 
 ### Sign up

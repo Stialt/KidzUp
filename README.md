@@ -49,3 +49,4 @@ Currently is in developing state.
 
 ## Authors
 * **Denis Kim** - *Initial Work* - [Stialt](https://github.com/Stialt)
+* **Assem Oinar** - *Initial Idea* - [OinarAssem](https://github.com/oinarassem)

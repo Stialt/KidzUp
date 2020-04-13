@@ -48,5 +48,5 @@ Currently is in developing state.
 * [FireBase](https://firebase.google.com/) - database, storage, users accounting etc.
 
 ## Authors
-* **Denis Kim** - *Initial Work* - [Stialt](https://github.com/Stialt)
-* **Assem Oinar** - *Initial Idea* - [OinarAssem](https://github.com/oinarassem)
+* **Denis Kim** - *Initial Work, Implementation* - [Stialt](https://github.com/Stialt)
+* **Assem Oinar** - *Initial Idea and Research* - [OinarAssem](https://github.com/oinarassem)

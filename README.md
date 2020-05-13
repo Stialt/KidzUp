@@ -46,6 +46,10 @@ Currently is in developing state.
 
 ## Built with
 * [FireBase](https://firebase.google.com/) - database, storage, users accounting etc.
+* [CircleImageView](https://github.com/hdodenhof/CircleImageView) - circle shaped Image View.
+* [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) - image cropping.
+* [Picasso](https://square.github.io/picasso/) - image loading and transformation.
+* [Compressor](https://github.com/zetbaitsu/Compressor) - image compressor.
 
 ## Authors
 * **Denis Kim** - *Initial Work, Implementation* - [Stialt](https://github.com/Stialt)

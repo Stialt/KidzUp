@@ -5,9 +5,16 @@ Currently is in developing state.
 
 ## Table of Contents (Optional)
 
-- [Available functions](#available-functions)
 - [Built with](#built-with)
+- [Available functions](#available-functions)
 - [Authors](#authors)
+
+## Built with
+* [FireBase](https://firebase.google.com/) - database, storage, users accounting etc.
+* [CircleImageView](https://github.com/hdodenhof/CircleImageView) - circle shaped Image View.
+* [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) - image cropping.
+* [Picasso](https://square.github.io/picasso/) - image loading and transformation.
+* [Compressor](https://github.com/zetbaitsu/Compressor) - image compressor.
 
 ## Available Functions
 
@@ -43,13 +50,6 @@ Currently is in developing state.
 
 ### Confirming accepted attempt
 ![](Demos/11-Task-Confirm.gif)
-
-## Built with
-* [FireBase](https://firebase.google.com/) - database, storage, users accounting etc.
-* [CircleImageView](https://github.com/hdodenhof/CircleImageView) - circle shaped Image View.
-* [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) - image cropping.
-* [Picasso](https://square.github.io/picasso/) - image loading and transformation.
-* [Compressor](https://github.com/zetbaitsu/Compressor) - image compressor.
 
 ## Authors
 * **Denis Kim** - *Initial Work, Implementation* - [Stialt](https://github.com/Stialt)

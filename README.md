@@ -53,4 +53,4 @@ Currently is in developing state.
 
 ## Authors
 * **Denis Kim** - *Initial Work, Implementation* - [Stialt](https://github.com/Stialt)
-* **Assem Oinar** - *Initial Idea and Research* - [OinarAssem](https://github.com/oinarassem)
+* **Assem Oinar** - *Idea, Research, Database* - [OinarAssem](https://github.com/oinarassem)
